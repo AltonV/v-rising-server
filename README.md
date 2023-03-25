@@ -1,6 +1,8 @@
 # V Rising Server
 
 [You can view available environment settings here](https://github.com/StunlockStudios/vrising-dedicated-server-instructions#server-host-settings "You can view available environment settings here")
+
+## Docker compose
 ```yaml
 version: "3"
 services:
