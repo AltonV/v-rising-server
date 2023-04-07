@@ -18,6 +18,8 @@ services:
       - VR_PASSWORD=secret
       - VR_MAX_USERS=20
     volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
       - ./vrising_data:/data
     ports:
       - 9876:9876/udp
