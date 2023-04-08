@@ -1,3 +1,10 @@
+[![Image Size](https://img.shields.io/docker/image-size/altonv/v-rising-server?label=size&logo=docker&logoColor=white)](https://hub.docker.com/r/altonv/v-rising-server)
+[![Docker Pulls](https://img.shields.io/docker/pulls/altonv/v-rising-server?label=pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/altonv/v-rising-server) 
+[![Docker Stars](https://img.shields.io/docker/stars/altonv/v-rising-server?logo=docker&label=stars&logoColor=white)](https://hub.docker.com/r/altonv/v-rising-server) 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AltonV/v-rising-server?logo=github)](https://github.com/AltonV/v-rising-server)
+[![GitHub repo size](https://img.shields.io/github/repo-size/AltonV/v-rising-server?logo=github)](https://github.com/AltonV/v-rising-server)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AltonV/v-rising-server?logo=github)](https://github.com/AltonV/v-rising-server)
+
 # V Rising Server
 
 [You can view available environment settings here](https://github.com/StunlockStudios/vrising-dedicated-server-instructions#server-host-settings "You can view available environment settings here")
